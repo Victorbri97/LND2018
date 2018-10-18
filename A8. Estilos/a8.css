@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Times New Roman y Courier New;
+}
+
+h1 {
+    color: red;
+
+}
+
+.parra {
+    color:rgb(114, 3, 29);
+    
+}
+#negri{
+    color:rgb(191, 66, 244);
+    font-weight: bold;
+}
+#cursi{
+    color:rgb(56, 165, 70);
+    font-style: italic;
+    
+}
+
+li{
+    color: yellow;
+    background-color: grey;
+    
+}
